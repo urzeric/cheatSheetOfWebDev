@@ -1,4 +1,4 @@
 this is my first file created by git.
 
-I think it is very good for us to use
+This is new Line two.
 This is line three!
